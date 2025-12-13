@@ -24,7 +24,7 @@
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,vscode,figma" alt="Oasif's Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,postman,git,github,vscode,figma" alt="Oasif's Technology Stack"/>
 </p>
 
 ---
