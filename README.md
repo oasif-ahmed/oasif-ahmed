@@ -1,5 +1,4 @@
-<img align="right" width="200" height="200" src="(https://drive.google.com/file/d/1BG1CGfzKxcuRKra1vSwy54HVsuOrKZpi/view?usp=sharing)](https://drive.google.com/file/d/1BG1CGfzKxcuRKra1vSwy54HVsuOrKZpi/view?usp=sharing)" alt="Oasif Ahmed Rikto"/>
-
+<img align="right" width="200" height="200" src="YOUR_NEW_PUBLIC_IMAGE_URL" alt="Oasif Ahmed Rikto"/>
 # Hi there! I'm Oasif Ahmed Rikto 👋
 
 ### A passionate JavaScript Developer and a CS Undergraduate.
@@ -35,5 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Oasif's Top Languages"/>
 </p>
+
 
 
