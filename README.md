@@ -24,7 +24,7 @@
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,bootstrap,git,github,vscode,figma" alt="Oasif's Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,vscode,figma" alt="Oasif's Technology Stack"/>
 </p>
 
 ---
@@ -32,6 +32,6 @@
 ## 📈 GitHub Performance Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
