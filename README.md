@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_TO_YOUR_LINKEDIN_PROFILE)
 ---
 
-## 📦 My Toolbox (Key Technologies)
+## 📦 My Toolbox 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,bootstrap,git,github,vscode,figma" alt="Oasif's Skills"/>
@@ -35,3 +35,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Oasif's Top Languages"/>
 </p>
+
