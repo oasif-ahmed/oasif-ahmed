@@ -4,12 +4,15 @@
 
 ---
 
-### 💻 Core Competencies & Focus
-* 🚀 **Web Development:** Focused on building scalable, responsive web applications using **Modern JavaScript**.
-* 🌐 **Full-Stack Proficiency:** Experienced with the **MERN** stack (MongoDB, Express, React, Node.js).
-* 💡 **Current Projects:** Actively developing a robust e-commerce solution and mastering advanced **React** concepts.
-* 📚 **Foundations:** Building strong foundational knowledge through my **javascript-book** repository.
-* 🤝 **Collaboration:** Seeking opportunities for team-based development in challenging software environments.
+Web Development: I really focus on building web applications that not only look good but can also handle a lot of traffic and keep running smoothly. My main tool for this is Modern JavaScript.
+
+Full-Stack Skillset: I'm hands-on with the whole MERN stack (MongoDB, Express, React, Node.js), which means I can handle a project from the database all the way to the user interface.
+
+Current Goals: Right now, I'm dedicating my time to developing a large-scale e-commerce solution and diving deep into advanced React techniques to master the framework.
+
+Foundations: I believe in strong fundamentals, so I document and build out my core knowledge through my personal javascript-book repository.
+
+Teamwork & Growth: I'm always looking for opportunities to join a strong development team where I can collaborate on interesting and challenging software projects.
 
 ---
 
@@ -35,3 +38,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
