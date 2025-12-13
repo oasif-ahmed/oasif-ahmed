@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="[LINK_TO_YOUR_PROFILE_PHOTO](https://drive.google.com/file/d/1BG1CGfzKxcuRKra1vSwy54HVsuOrKZpi/view?usp=sharing)" alt="Oasif Ahmed Rikto"/>
+<img align="right" width="200" height="200" src="(https://drive.google.com/file/d/1BG1CGfzKxcuRKra1vSwy54HVsuOrKZpi/view?usp=sharing)](https://drive.google.com/file/d/1BG1CGfzKxcuRKra1vSwy54HVsuOrKZpi/view?usp=sharing)" alt="Oasif Ahmed Rikto"/>
 
 # Hi there! I'm Oasif Ahmed Rikto 👋
 
