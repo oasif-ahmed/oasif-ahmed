@@ -19,7 +19,7 @@ Committed to collaborative software development and ready to bring my technical 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,postman,git,github,vscode,figma" alt="Oasif's Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,postman,git,github,vscode,figma,tailwind,jwt" alt="Oasif's Technology Stack"/>
 </p>
 
 ---
@@ -30,8 +30,3 @@ Committed to collaborative software development and ready to bring my technical 
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
-
-
-
-
