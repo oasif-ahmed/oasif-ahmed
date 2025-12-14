@@ -11,8 +11,8 @@ Committed to collaborative software development and ready to bring my technical 
 ### Connect with Me
 | Platform | Status |
 | :--- | :--- |
-| **Email** | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oasifrikto@gmail.com) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_TO_YOUR_LINKEDIN_PROFILE) |
+| **Email** | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oasifrikto@gmail.com) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/) |
 
 ---
 
@@ -30,6 +30,7 @@ Committed to collaborative software development and ready to bring my technical 
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
 
 
 
