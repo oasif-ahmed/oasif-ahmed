@@ -19,7 +19,7 @@ Committed to collaborative software development and ready to bring my technical 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,postman,git,github,vscode,figma,tailwind,jwt" alt="Oasif's Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,html,css,firebase,jwt,postman,git,vscode,figma" alt="Oasif's Technology Stack"/>
 </p>
 
 ---
