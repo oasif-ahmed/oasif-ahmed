@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋 I'm Oasif Ahmed Rikto</h1>
-
 <h3 align="center">Full-Stack JavaScript Developer | CS Undergraduate (Dhaka)</h3>
-
 <p align="center">
 Specializing in the MERN Stack to deliver scalable and intuitive user experiences. I am actively building a complex e-commerce platform, which is currently driving my deep dive into advanced React architecture.
 </p>
@@ -52,15 +50,26 @@ Specializing in the MERN Stack to deliver scalable and intuitive user experience
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed0004321&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0004321&theme=tokyonight&hide_border=true" height="180" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ahmed0004321&theme=tokyonight&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed0004321&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophy graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed0004321&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" />
 </div>
 
 ###
@@ -74,5 +83,5 @@ Specializing in the MERN Stack to deliver scalable and intuitive user experience
 ###
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ahmed0004321&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed0004321&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
