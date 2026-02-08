@@ -1,19 +1,11 @@
 # Hello! I'm Oasif Ahmed Rikto 👋
 
-👩‍💻 **About Me** :
+👩‍💻 About Me :
 Full-Stack JavaScript Developer | CS Undergraduate (Dhaka)
 
-Specializing in the **MERN Stack** to deliver scalable and intuitive user experiences. I am actively building a complex e-commerce platform, which is currently driving my deep dive into advanced React architecture and Next.js.
+Specializing in the MERN Stack to deliver scalable and intuitive user experiences. I am actively building a complex e-commerce platform, which is currently driving my deep dive into advanced React architecture.
 
 Committed to collaborative software development and ready to bring my technical skills and team-player mindset to a professional environment.
-
----
-
-### 🚀 Current Focus
-- 🏗️ **Advanced React:** Design patterns and performance optimization.
-- ⚡ **Next.js:** Implementation of Server-Side Rendering (SSR) for e-commerce.
-- 🔐 **Security:** Enhancing JWT and Firebase authentication workflows.
-
 ---
 
 ### Connect with Me
@@ -27,7 +19,7 @@ Committed to collaborative software development and ready to bring my technical 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nextjs,react,tailwind,nodejs,express,mongodb,html,css,firebase,jwt,postman,git,vscode,figma" alt="Oasif's Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,express,mongodb,firebase,tailwind,html,css,jwt,postman,git,vscode,figma&perline=8" alt="Oasif's Technology Stack"/>
 </p>
 
 ---
