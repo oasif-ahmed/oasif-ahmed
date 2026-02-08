@@ -1,17 +1,25 @@
 # Hello! I'm Oasif Ahmed Rikto 👋
 
-👩‍💻 About Me :
+👩‍💻 **About Me** :
 Full-Stack JavaScript Developer | CS Undergraduate (Dhaka)
 
-Specializing in the MERN Stack to deliver scalable and intuitive user experiences. I am actively building a complex e-commerce platform, which is currently driving my deep dive into advanced React architecture.
+Specializing in the **MERN Stack** to deliver scalable and intuitive user experiences. I am actively building a complex e-commerce platform, which is currently driving my deep dive into advanced React architecture and Next.js.
 
 Committed to collaborative software development and ready to bring my technical skills and team-player mindset to a professional environment.
+
+---
+
+### 🚀 Current Focus
+- 🏗️ **Advanced React:** Design patterns and performance optimization.
+- ⚡ **Next.js:** Implementation of Server-Side Rendering (SSR) for e-commerce.
+- 🔐 **Security:** Enhancing JWT and Firebase authentication workflows.
+
 ---
 
 ### Connect with Me
 | Platform | Status |
 | :--- | :--- |
-| **Email** | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oasifrikto@gmail.com) |
+| **Email** | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oasifrikto@gmail.com) |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/) |
 
 ---
@@ -19,7 +27,7 @@ Committed to collaborative software development and ready to bring my technical 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,html,css,firebase,jwt,postman,git,vscode,figma" alt="Oasif's Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,nextjs,react,tailwind,nodejs,express,mongodb,html,css,firebase,jwt,postman,git,vscode,figma" alt="Oasif's Technology Stack"/>
 </p>
 
 ---
@@ -27,6 +35,6 @@ Committed to collaborative software development and ready to bring my technical 
 ## 📈 GitHub Performance Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oasif's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
