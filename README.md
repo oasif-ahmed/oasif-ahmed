@@ -4,7 +4,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Oasif Ahmed Rikto</h1>
-<h2 align="center" style="color: #38bdf8;">Technical</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer" alt="Typing Animation" />
+</p>
 
 - 👋 Hi, I'm **@ahmed0004321**
 - 💻  I'm currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
