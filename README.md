@@ -38,37 +38,23 @@
 **Languages:**<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="40" alt="languages" />
 
-<br/><br/>
-
 **CSS Frameworks & Libraries:**<br/>
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="40" alt="css frameworks" />
-
-<br/><br/>
 
 **JavaScript Frameworks & Libraries:**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" height="40" alt="js frameworks" />
 
-<br/><br/>
-
 **Database & Model:**<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" height="40" alt="databases" />
-
-<br/><br/>
 
 **Deployment Platform:**<br/>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="40" alt="deployment platforms" />
 
-<br/><br/>
-
 **Design & Graphics:**<br/>
 <img src="https://skillicons.dev/icons?i=figma,pixso" height="40" alt="design tools" />
 
-<br/><br/>
-
 **Tools & Technologies:**<br/>
 <img src="https://skillicons.dev/icons?i=windows,mac,notion,git,github,vscode,postman" height="40" alt="tools" />
-
-<br/><br/>
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
@@ -79,22 +65,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
-
 **GitHub Statistics:**<br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </p>
 
-<br/>
-
 **Repository Stats & Streak:**<br/>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ahmed0004321&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </p>
-
-<br/>
 
 ### 💬 RANDOM DEV QUOTE:
 <p align="left">
@@ -102,8 +82,6 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   </a>
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ahmed0004321&icon=0&color=0" alt="Profile Views" />
