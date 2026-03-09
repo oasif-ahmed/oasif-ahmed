@@ -78,16 +78,10 @@
   <img src="https://streak-stats.demolab.com?user=ahmed0004321&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </p>
 
-### 💬 RANDOM DEV QUOTE:
-<p align="left">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed0004321&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 
 
