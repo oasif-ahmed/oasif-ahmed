@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Oasif Ahmed Rikto - Frontend Developer" />
+  <img src="./banner_v2.png" width="100%" alt="Oasif Ahmed Rikto - Frontend Developer" />
 </p>
 
 

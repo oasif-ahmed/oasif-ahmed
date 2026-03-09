@@ -1,0 +1,128 @@
+{
+    "personal_information": {
+        "name": "Rocky Chowdhury",
+        "title": "Backend Developer",
+        "contact": {
+            "email": "rocky20809@gmail.com",
+            "phone": "+880 1639 066718",
+            "location": "Dhaka, Bangladesh"
+        },
+        "links": [
+            "Linkedin",
+            "Github",
+            "Portfolio",
+            "CodeChef",
+            "Codeforces",
+            "LeetCode"
+        ]
+    },
+    "summary": "Passionate backend developer with strong problem-solving skills and a solid background in data structures and algorithms. Experienced in building scalable web applications using Django and React. Eager to contribute to impactful projects and grow as a backend engineer in a collaborative environment.",
+    "skills": {
+        "core_expertise": [
+            "Django",
+            "RESTful API Development",
+            "PostgreSQL",
+            "React",
+            "JWT",
+            "Role-Based Access Control"
+        ],
+        "programming_languages_and_concepts": [
+            "Python",
+            "C++",
+            "Data Structures",
+            "Algorithms",
+            "Object-Oriented Programming"
+        ],
+        "web_technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "Tailwind CSS"
+        ],
+        "tools_and_platforms": [
+            "Git",
+            "GitHub",
+            "Postman",
+            "Firebase",
+            "MongoDB (basic)",
+            "VS Code",
+            "Vercel",
+            "Netlify",
+            "Railway"
+        ]
+    },
+    "problem_solving_stats": {
+        "codechef": "2* coder (~1592 rating)",
+        "codeforces": "Newbie (~1100 rating)",
+        "leetcode": "Solved numerous DSA problems"
+    },
+    "soft_skills": [
+        "Hardworking",
+        "Quick Learner",
+        "Teamwork",
+        "Responsible",
+        "Flexible",
+        "Adaptable"
+    ],
+    "projects": [
+        {
+            "name": "AltRec - Full Stack Q&A-Based Product Recommendation System",
+            "technologies": [
+                "React",
+                "Tailwind",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Firebase Auth",
+                "JWT"
+            ],
+            "highlights": [
+                "Built a user-driven product suggestion platform with secure authentication and role-specific feature access",
+                "Integrated Firebase Authentication (Email/Google) and JWT for route protection and user session handling",
+                "Enabled users to manage product queries, as well as recommend alternative products with details",
+                "Designed personalized dashboards for managing queries, viewing recommendations, and tracking user actions",
+                "Implemented search, layout toggle, and responsive UI with Tailwind; managed backend with Express and MongoDB"
+            ]
+        },
+        {
+            "name": "Employee Management System - Full Stack Role-Based Dashboard",
+            "technologies": [
+                "React",
+                "MongoDB",
+                "JWT",
+                "Express.js",
+                "Firebase Auth",
+                "Tailwind",
+                "TanStack Query",
+                "TanStack Table"
+            ],
+            "highlights": [
+                "Developed a secure employee management system with role-based access control (Admin, Manager, Employee)",
+                "Integrated Firebase Authentication for sign-up/login, and JWT for protected routes",
+                "Enabled dashboard-specific views based on user role with real-time user data tracking",
+                "Implemented MongoDB CRUD operations for managing employees, departments, and payroll",
+                "Designed responsive UI with Tailwind and handled state with React hooks"
+            ]
+        }
+    ],
+    "education": {
+        "degree": "BSc in CSE",
+        "institution": "Prime University",
+        "duration": "June 2022 - June 2026"
+    },
+    "extra_curricular": {
+        "organization": "Prime University Computer Programming Club",
+        "role": "Vice-President"
+    },
+    "certifications": [
+        {
+            "name": "CSE Fundamentals with Phitron",
+            "duration": "April 2023 - April 2024"
+        },
+        {
+            "name": "Complete Web Development Course - Programming Hero",
+            "duration": "July 2024 - February 2025"
+        }
+    ]
+}
