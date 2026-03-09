@@ -8,10 +8,10 @@
 
 - 👋 Hi, I'm **@ahmed0004321**
 - 💻  I'm currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- ⚙️  Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️  I'm currently learning **React Native, GraphQL, Docker and AWS**.
-- 💬  Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐  Explore My Portfolio **[Portfolio Link Here]** and My **[Resume Here]**
+- ⚙️  Using **Node.js, Express.js, MongoDB** for the backend.
+- 🛠️  I'm currently learning **Next.js, react native and Docker**.
+- 💬  Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 🌐  Explore My Portfolio **[https://my-portfolio-six-xi-14.vercel.app/]** and My **[https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view]**
 - 📝  I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)**
 - 📫  Feel free to reach me out **[Email](mailto:oasifrikto@gmail.com)**
 
@@ -51,10 +51,10 @@
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="40" alt="deployment platforms" />
 
 **Design & Graphics:**<br/>
-<img src="https://skillicons.dev/icons?i=figma,pixso" height="40" alt="design tools" />
+<img src="https://skillicons.dev/icons?i=figma,canva" height="40" alt="design tools" />
 
 **Tools & Technologies:**<br/>
-<img src="https://skillicons.dev/icons?i=windows,mac,notion,git,github,vscode,postman" height="40" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" height="40" alt="tools" />
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
@@ -86,3 +86,4 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ahmed0004321&icon=0&color=0" alt="Profile Views" />
 </p>
+
