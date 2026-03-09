@@ -1,6 +1,6 @@
 <!-- Replace the banner link with your own generated banner image from Canva/Figma -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oasif%20Ahmed%20Rikto&fontSize=70&fontAlign=50&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oasif%20Ahmed%20Rikto&fontSize=70&fontAlign=50&fontAlignY=30&desc=Frontend%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Oasif Ahmed Rikto</h1>
@@ -108,3 +108,4 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ahmed0004321&icon=0&color=0" alt="Profile Views" />
 </p>
+
