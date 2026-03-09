@@ -1,6 +1,6 @@
-<!-- Replace the banner link with your own generated banner image from Canva/Figma -->
+<!-- Custom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oasif%20Ahmed%20Rikto&fontSize=70&fontAlign=50&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="./banner.png" width="100%" alt="Oasif Ahmed Rikto - Frontend Developer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Oasif Ahmed Rikto</h1>
