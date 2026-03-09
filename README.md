@@ -56,6 +56,8 @@
 **Tools & Technologies:**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" height="40" alt="tools" />
 
+<br/>
+
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
 **GitHub Contributions:**<br/>
@@ -65,26 +67,42 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/>
+
 **GitHub Statistics:**<br/>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0004321&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="languages graph" />
 </p>
 
-**Repository Stats & Streak:**<br/>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ahmed0004321&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+<br/>
+
+**Contribution Streak:**<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed0004321&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="170" width="49%" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed0004321&theme=tokyo-night&hide_border=true&radius=8" width="49%" alt="activity graph" />
 </p>
+
+<br/>
+
+### 🏆 GITHUB TROPHIES:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed0004321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
+</p>
+
+<br/>
 
 ### 💬 RANDOM DEV QUOTE:
-<p align="left">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  </a>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%" />
 </p>
+
+<br/>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ahmed0004321&icon=0&color=0" alt="Profile Views" />
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
