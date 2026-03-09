@@ -1,6 +1,6 @@
 <!-- Replace the banner link with your own generated banner image from Canva/Figma -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oasif%20Ahmed%20Rikto&fontSize=70&fontAlign=50&fontAlignY=30&desc=Frontend%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oasif%20Ahmed%20Rikto&fontSize=70&fontAlign=50&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Oasif Ahmed Rikto</h1>
@@ -36,12 +36,12 @@
 ### ⚙️ TECHNOLOGY STACK:
 
 **Languages:**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python" height="40" alt="languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="40" alt="languages" />
 
 <br/><br/>
 
 **CSS Frameworks & Libraries:**<br/>
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" height="40" alt="css frameworks" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="40" alt="css frameworks" />
 
 <br/><br/>
 
@@ -51,7 +51,7 @@
 <br/><br/>
 
 **Database & Model:**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" height="40" alt="databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" height="40" alt="databases" />
 
 <br/><br/>
 
@@ -61,12 +61,12 @@
 <br/><br/>
 
 **Design & Graphics:**<br/>
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" height="40" alt="design tools" />
+<img src="https://skillicons.dev/icons?i=figma,pixso" height="40" alt="design tools" />
 
 <br/><br/>
 
 **Tools & Technologies:**<br/>
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" height="40" alt="tools" />
+<img src="https://skillicons.dev/icons?i=windows,mac,notion,git,github,vscode,postman" height="40" alt="tools" />
 
 <br/><br/>
 
@@ -108,4 +108,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ahmed0004321&icon=0&color=0" alt="Profile Views" />
 </p>
-
