@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ahmed0004321&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed0004321&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
