@@ -58,15 +58,6 @@
 **Tools & Technologies:**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" height="40" alt="tools" />
 
-### 📊 GITHUB STATISTICS & ANALYSIS:
-
-**GitHub Contributions:**<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/output/github-contribution-grid-snake.svg">
-</picture>
-
 **GitHub Statistics:**<br/>
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmed0004321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
@@ -81,6 +72,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed0004321&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 
 
