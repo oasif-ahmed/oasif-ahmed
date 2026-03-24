@@ -13,7 +13,7 @@
 - ⚙️  Using **Node.js, Express.js, MongoDB** for the backend.
 - 🛠️  I'm currently learning **Next.js, react native and Docker**.
 - 💬  Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
-- 🌐  Explore My Portfolio **[https://my-portfolio-six-xi-14.vercel.app/]** and My Resume **[https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view]**
+- 🌐  Explore My Portfolio **[https://oasif-ahmed-rikto-portfolio.vercel.app/]** and My Resume **[https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view]**
 - 📝  I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)**
 - 📫  Feel free to reach me out **[Email](mailto:oasifrikto@gmail.com)**
 
