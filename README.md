@@ -21,7 +21,7 @@
 
 ### FOLLOW ME ON SOCIALS:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
   </a>
@@ -37,35 +37,65 @@
 
 ### TECHNOLOGY STACK:
 
-**Languages:**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="40" alt="languages" />
-
-**CSS Frameworks & Libraries:**<br/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="40" alt="css frameworks" />
-
-**JavaScript Frameworks & Libraries:**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" height="40" alt="js frameworks" />
-
-**Database & Model:**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" height="40" alt="databases" />
-
-**Deployment Platform:**<br/>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="40" alt="deployment platforms" />
-
-**Design & Graphics:**<br/>
-<img src="https://skillicons.dev/icons?i=figma,canva" height="40" alt="design tools" />
-
-**Tools & Technologies:**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" height="40" alt="tools" />
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <strong>Languages</strong><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="40" alt="languages" />
+    </td>
+    <td width="10"></td>
+    <td align="center" width="90">
+      <strong>CSS Frameworks</strong><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="40" alt="css frameworks" />
+    </td>
+    <td width="10"></td>
+    <td align="center" width="90">
+      <strong>JS Frameworks</strong><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" height="40" alt="js frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <strong>Databases</strong><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" height="40" alt="databases" />
+    </td>
+    <td width="10"></td>
+    <td align="center" width="90">
+      <strong>Deployment</strong><br/>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="40" alt="deployment platforms" />
+    </td>
+    <td width="10"></td>
+    <td align="center" width="90">
+      <strong>Design Tools</strong><br/>
+      <img src="https://skillicons.dev/icons?i=figma,canva" height="40" alt="design tools" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <strong>Tools</strong><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" height="40" alt="tools" />
+    </td>
+    <td width="10"></td>
+    <td align="center" width="90">
+      <strong>Backend</strong><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" alt="backend" />
+    </td>
+    <td width="10"></td>
+    <td align="center" width="90">
+      <strong>Version Control</strong><br/>
+      <img src="https://skillicons.dev/icons?i=git,github" height="40" alt="version control" />
+    </td>
+  </tr>
+</table>
 
 **GitHub Statistics:**<br/>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oasif-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oasif-ahmed&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </p>
 
 **Repository Stats & Streak:**<br/>
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=oasif-ahmed&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </p>
 
