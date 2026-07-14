@@ -1,74 +1,60 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Oasif Ahmed Rikto - Frontend Developer" />
-</p>
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
+###
 
-<h1 align="center">Hi, I'm Oasif Ahmed Rikto</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer" alt="Typing Animation" />
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-- Hi, I'm **@ahmed0004321**
-- I'm currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- Using **Node.js, Express.js, MongoDB** for the backend.
-- I'm currently learning **Next.js, react native and Docker**.
-- Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
-- Explore My Portfolio **[https://oasif-ahmed-rikto-portfolio.vercel.app/]** and My Resume **[https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view]**
-- I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)**
-- Feel free to reach me out **[Email](mailto:oasifrikto@gmail.com)**
+###
 
-<br/>
-
-### FOLLOW ME ON SOCIALS:
-
-<p align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:oasifrikto@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/oasif-ahmed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  <a href="https://github.com/ahmed0004321" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
-</p>
+</div>
 
-<br/>
+###
 
-### TECHNOLOGY STACK:
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed0004321&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-**Languages:**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="40" alt="languages" />
+###
 
-**CSS Frameworks & Libraries:**<br/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="40" alt="css frameworks" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-**JavaScript Frameworks & Libraries:**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" height="40" alt="js frameworks" />
-
-**Database & Model:**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" height="40" alt="databases" />
-
-**Deployment Platform:**<br/>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="40" alt="deployment platforms" />
-
-**Design & Graphics:**<br/>
-<img src="https://skillicons.dev/icons?i=figma,canva" height="40" alt="design tools" />
-
-**Tools & Technologies:**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" height="40" alt="tools" />
-
-**GitHub Statistics:**<br/>
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oasif-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oasif-ahmed&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</p>
-
-**Repository Stats & Streak:**<br/>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=oasif-ahmed&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-</p>
+###
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oasif-ahmed&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed0004321&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
