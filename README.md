@@ -59,7 +59,7 @@
       <strong>JS Frameworks</strong><br/><br/>
       <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="35" alt="nextjs" />
+      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="35" alt="nextjs" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/redux/764ABC" height="35" alt="redux" />
     </td>
@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="33%">
       <strong>Deployment</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/vercel/000000" height="35" alt="vercel" />
+      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="35" alt="vercel" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase" />
       &nbsp;&nbsp;&nbsp;
@@ -85,8 +85,6 @@
     <td align="center" width="33%">
       <strong>Design Tools</strong><br/><br/>
       <img src="https://cdn.simpleicons.org/figma/F24E1E" height="35" alt="figma" />
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva" />
     </td>
   </tr>
   <tr><td colspan="3"><br/></td></tr>
@@ -97,19 +95,19 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/notion/000000" height="35" alt="notion" />
+      <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="35" alt="notion" />
     </td>
     <td align="center" width="33%">
       <strong>Backend</strong><br/><br/>
       <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/express/000000" height="35" alt="express" />
+      <img src="https://cdn.simpleicons.org/express/FFFFFF" height="35" alt="express" />
     </td>
     <td align="center" width="33%">
       <strong>Version Control</strong><br/><br/>
       <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="github" />
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" height="35" alt="github" />
     </td>
   </tr>
 </table>
