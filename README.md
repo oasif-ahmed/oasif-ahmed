@@ -41,43 +41,43 @@
   <tr>
     <td align="center" width="33%">
       <strong>Languages</strong><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="50" alt="languages" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,js,ts&grayscale=true" height="50" alt="languages" />
     </td>
     <td align="center" width="33%">
       <strong>CSS Frameworks</strong><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="50" alt="css frameworks" />
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&grayscale=true" height="50" alt="css frameworks" />
     </td>
     <td align="center" width="33%">
       <strong>JS Frameworks</strong><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" height="50" alt="js frameworks" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express&grayscale=true" height="50" alt="js frameworks" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <strong>Databases</strong><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" height="50" alt="databases" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&grayscale=true" height="50" alt="databases" />
     </td>
     <td align="center" width="33%">
       <strong>Deployment</strong><br/>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="50" alt="deployment platforms" />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&grayscale=true" height="50" alt="deployment platforms" />
     </td>
     <td align="center" width="33%">
       <strong>Design Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=figma,canva" height="50" alt="design tools" />
+      <img src="https://skillicons.dev/icons?i=figma,canva&grayscale=true" height="50" alt="design tools" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <strong>Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,postman,notion" height="50" alt="tools" />
+      <img src="https://skillicons.dev/icons?i=vscode,postman,notion&grayscale=true" height="50" alt="tools" />
     </td>
     <td align="center" width="33%">
       <strong>Backend</strong><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" alt="backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express&grayscale=true" height="50" alt="backend" />
     </td>
     <td align="center" width="33%">
       <strong>Version Control</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github" height="50" alt="version control" />
+      <img src="https://skillicons.dev/icons?i=git,github&grayscale=true" height="50" alt="version control" />
     </td>
   </tr>
 </table>
