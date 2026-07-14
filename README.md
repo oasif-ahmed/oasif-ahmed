@@ -40,87 +40,46 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%" valign="middle">
-      <strong>Languages</strong><br/>
-      <br/>
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="js" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="ts" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cpp" />
+      <strong>Languages</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="js" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="ts" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cpp" />
     </td>
     <td align="center" width="33%" valign="middle">
-      <strong>CSS & Markup</strong><br/>
-      <br/>
-      <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html" />
-      <img width="25" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap" />
+      <strong>CSS & Markup</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap" />
     </td>
     <td align="center" width="33%" valign="middle">
-      <strong>JS Frameworks</strong><br/>
-      <br/>
-      <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux" />
+      <strong>JS Frameworks</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux" />
     </td>
   </tr>
   <tr><td colspan="3"><br/><br/></td></tr>
   <tr>
     <td align="center" width="33%" valign="middle">
-      <strong>Databases</strong><br/>
-      <br/>
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres" />
+      <strong>Databases</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres" />
     </td>
     <td align="center" width="33%" valign="middle">
-      <strong>Deployment</strong><br/>
-      <br/>
-      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" alt="vercel" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify" />
+      <strong>Deployment</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" alt="vercel" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify" />
     </td>
     <td align="center" width="33%" valign="middle">
-      <strong>Design Tools</strong><br/>
-      <br/>
+      <strong>Design Tools</strong><br/><br/>
       <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma" />
     </td>
   </tr>
   <tr><td colspan="3"><br/><br/></td></tr>
   <tr>
     <td align="center" width="33%" valign="middle">
-      <strong>Tools</strong><br/>
-      <br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="40" alt="notion" />
+      <strong>Tools</strong><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/notion/FFFFFF" height="40" alt="notion" />
     </td>
     <td align="center" width="33%" valign="middle">
-      <strong>Backend</strong><br/>
-      <br/>
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="express" />
+      <strong>Backend</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="express" />
     </td>
     <td align="center" width="33%" valign="middle">
-      <strong>Version Control</strong><br/>
-      <br/>
-      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
-      <img width="25" />
-      <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github" />
+      <strong>Version Control</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github" />
     </td>
   </tr>
 </table>
