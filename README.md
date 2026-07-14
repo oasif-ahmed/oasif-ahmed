@@ -51,8 +51,12 @@
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="35" alt="cpp" />
     </td>
     <td align="center" width="33%" valign="middle">
-      <strong>CSS Frameworks</strong><br/>
+      <strong>CSS & Markup</strong><br/>
       <br/>
+      <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css" />
+      &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwind" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="bootstrap" />
