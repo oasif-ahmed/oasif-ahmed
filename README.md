@@ -33,7 +33,7 @@
   <a href="mailto:oasifrikto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/ahmed0004321" target="_blank">
+  <a href="https://github.com/oasif-ahmed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
@@ -41,20 +41,20 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed0004321&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=oasif-ahmed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/oasif-ahmed/oasif-ahmed/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmed0004321/ahmed0004321/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oasif-ahmed/oasif-ahmed/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oasif-ahmed/oasif-ahmed/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oasif-ahmed/oasif-ahmed/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed0004321&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=oasif-ahmed&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
