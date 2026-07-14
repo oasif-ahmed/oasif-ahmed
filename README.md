@@ -41,56 +41,58 @@
   <tr>
     <td align="center" width="33%">
       <strong>Languages</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="filter: grayscale(100%)" alt="c" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="filter: grayscale(100%)" alt="cpp" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="filter: grayscale(100%)" alt="js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="filter: grayscale(100%)" alt="ts" />
+      <img src="https://cdn.simpleicons.org/javascript/808080" height="30" alt="js" />
+      <img src="https://cdn.simpleicons.org/typescript/808080" height="30" alt="ts" />
+      <img src="https://cdn.simpleicons.org/c/808080" height="30" alt="c" />
+      <img src="https://cdn.simpleicons.org/cplusplus/808080" height="30" alt="cpp" />
     </td>
     <td align="center" width="33%">
       <strong>CSS Frameworks</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" style="filter: grayscale(100%)" alt="tailwind" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" style="filter: grayscale(100%)" alt="bootstrap" />
+      <img src="https://cdn.simpleicons.org/tailwindcss/808080" height="30" alt="tailwind" />
+      <img src="https://cdn.simpleicons.org/bootstrap/808080" height="30" alt="bootstrap" />
     </td>
     <td align="center" width="33%">
       <strong>JS Frameworks</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="filter: grayscale(100%)" alt="react" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" style="filter: grayscale(100%)" alt="nextjs" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" style="filter: grayscale(100%)" alt="redux" />
+      <img src="https://cdn.simpleicons.org/react/808080" height="30" alt="react" />
+      <img src="https://cdn.simpleicons.org/nextdotjs/808080" height="30" alt="nextjs" />
+      <img src="https://cdn.simpleicons.org/redux/808080" height="30" alt="redux" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <strong>Databases</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="filter: grayscale(100%)" alt="mongodb" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="filter: grayscale(100%)" alt="mysql" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="filter: grayscale(100%)" alt="postgres" />
+      <img src="https://cdn.simpleicons.org/mongodb/808080" height="30" alt="mongodb" />
+      <img src="https://cdn.simpleicons.org/mysql/808080" height="30" alt="mysql" />
+      <img src="https://cdn.simpleicons.org/postgresql/808080" height="30" alt="postgres" />
     </td>
     <td align="center" width="33%">
       <strong>Deployment</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" style="filter: grayscale(100%)" alt="vercel" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" style="filter: grayscale(100%)" alt="firebase" />
+      <img src="https://cdn.simpleicons.org/vercel/808080" height="30" alt="vercel" />
+      <img src="https://cdn.simpleicons.org/firebase/808080" height="30" alt="firebase" />
+      <img src="https://cdn.simpleicons.org/netlify/808080" height="30" alt="netlify" />
     </td>
     <td align="center" width="33%">
       <strong>Design Tools</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="filter: grayscale(100%)" alt="figma" />
+      <img src="https://cdn.simpleicons.org/figma/808080" height="30" alt="figma" />
+      <img src="https://cdn.simpleicons.org/canva/808080" height="30" alt="canva" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <strong>Tools</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="filter: grayscale(100%)" alt="vscode" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="filter: grayscale(100%)" alt="git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="filter: grayscale(100%)" alt="github" />
+      <img src="https://cdn.simpleicons.org/visualstudiocode/808080" height="30" alt="vscode" />
+      <img src="https://cdn.simpleicons.org/postman/808080" height="30" alt="postman" />
+      <img src="https://cdn.simpleicons.org/notion/808080" height="30" alt="notion" />
     </td>
     <td align="center" width="33%">
       <strong>Backend</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="filter: grayscale(100%)" alt="nodejs" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="filter: grayscale(100%)" alt="express" />
+      <img src="https://cdn.simpleicons.org/nodedotjs/808080" height="30" alt="nodejs" />
+      <img src="https://cdn.simpleicons.org/express/808080" height="30" alt="express" />
     </td>
     <td align="center" width="33%">
-      <strong>Other</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" style="filter: grayscale(100%)" alt="docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="filter: grayscale(100%)" alt="linux" />
+      <strong>Version Control</strong><br/>
+      <img src="https://cdn.simpleicons.org/git/808080" height="30" alt="git" />
+      <img src="https://cdn.simpleicons.org/github/808080" height="30" alt="github" />
     </td>
   </tr>
 </table>
