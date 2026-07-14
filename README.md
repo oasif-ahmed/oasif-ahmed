@@ -40,59 +40,76 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <strong>Languages</strong><br/>
-      <img src="https://cdn.simpleicons.org/javascript/808080" height="30" alt="js" />
-      <img src="https://cdn.simpleicons.org/typescript/808080" height="30" alt="ts" />
-      <img src="https://cdn.simpleicons.org/c/808080" height="30" alt="c" />
-      <img src="https://cdn.simpleicons.org/cplusplus/808080" height="30" alt="cpp" />
+      <strong>Languages</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="js" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="ts" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/c/A8B9CC" height="35" alt="c" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="35" alt="cpp" />
     </td>
     <td align="center" width="33%">
-      <strong>CSS Frameworks</strong><br/>
-      <img src="https://cdn.simpleicons.org/tailwindcss/808080" height="30" alt="tailwind" />
-      <img src="https://cdn.simpleicons.org/bootstrap/808080" height="30" alt="bootstrap" />
+      <strong>CSS Frameworks</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwind" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="bootstrap" />
     </td>
     <td align="center" width="33%">
-      <strong>JS Frameworks</strong><br/>
-      <img src="https://cdn.simpleicons.org/react/808080" height="30" alt="react" />
-      <img src="https://cdn.simpleicons.org/nextdotjs/808080" height="30" alt="nextjs" />
-      <img src="https://cdn.simpleicons.org/redux/808080" height="30" alt="redux" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Databases</strong><br/>
-      <img src="https://cdn.simpleicons.org/mongodb/808080" height="30" alt="mongodb" />
-      <img src="https://cdn.simpleicons.org/mysql/808080" height="30" alt="mysql" />
-      <img src="https://cdn.simpleicons.org/postgresql/808080" height="30" alt="postgres" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Deployment</strong><br/>
-      <img src="https://cdn.simpleicons.org/vercel/808080" height="30" alt="vercel" />
-      <img src="https://cdn.simpleicons.org/firebase/808080" height="30" alt="firebase" />
-      <img src="https://cdn.simpleicons.org/netlify/808080" height="30" alt="netlify" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Design Tools</strong><br/>
-      <img src="https://cdn.simpleicons.org/figma/808080" height="30" alt="figma" />
-      <img src="https://cdn.simpleicons.org/canva/808080" height="30" alt="canva" />
+      <strong>JS Frameworks</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="35" alt="nextjs" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/redux/764ABC" height="35" alt="redux" />
     </td>
   </tr>
+  <tr><td colspan="3"><br/></td></tr>
   <tr>
     <td align="center" width="33%">
-      <strong>Tools</strong><br/>
-      <img src="https://cdn.simpleicons.org/visualstudiocode/808080" height="30" alt="vscode" />
-      <img src="https://cdn.simpleicons.org/postman/808080" height="30" alt="postman" />
-      <img src="https://cdn.simpleicons.org/notion/808080" height="30" alt="notion" />
+      <strong>Databases</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgres" />
     </td>
     <td align="center" width="33%">
-      <strong>Backend</strong><br/>
-      <img src="https://cdn.simpleicons.org/nodedotjs/808080" height="30" alt="nodejs" />
-      <img src="https://cdn.simpleicons.org/express/808080" height="30" alt="express" />
+      <strong>Deployment</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/vercel/000000" height="35" alt="vercel" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="35" alt="netlify" />
     </td>
     <td align="center" width="33%">
-      <strong>Version Control</strong><br/>
-      <img src="https://cdn.simpleicons.org/git/808080" height="30" alt="git" />
-      <img src="https://cdn.simpleicons.org/github/808080" height="30" alt="github" />
+      <strong>Design Tools</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" height="35" alt="figma" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva" />
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Tools</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="35" alt="vscode" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/notion/000000" height="35" alt="notion" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/express/000000" height="35" alt="express" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Version Control</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="github" />
     </td>
   </tr>
 </table>
