@@ -39,8 +39,9 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <strong>Languages</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>Languages</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="js" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="ts" />
@@ -49,14 +50,16 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="35" alt="cpp" />
     </td>
-    <td align="center" width="33%">
-      <strong>CSS Frameworks</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>CSS Frameworks</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwind" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="bootstrap" />
     </td>
-    <td align="center" width="33%">
-      <strong>JS Frameworks</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>JS Frameworks</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="35" alt="nextjs" />
@@ -66,45 +69,51 @@
   </tr>
   <tr><td colspan="3"><br/></td></tr>
   <tr>
-    <td align="center" width="33%">
-      <strong>Databases</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>Databases</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgres" />
     </td>
-    <td align="center" width="33%">
-      <strong>Deployment</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>Deployment</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="35" alt="vercel" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="35" alt="firebase" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="35" alt="netlify" />
     </td>
-    <td align="center" width="33%">
-      <strong>Design Tools</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>Design Tools</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/figma/F24E1E" height="35" alt="figma" />
     </td>
   </tr>
   <tr><td colspan="3"><br/></td></tr>
   <tr>
-    <td align="center" width="33%">
-      <strong>Tools</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>Tools</strong><br/>
+      <br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="35" alt="notion" />
     </td>
-    <td align="center" width="33%">
-      <strong>Backend</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>Backend</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/express/FFFFFF" height="35" alt="express" />
     </td>
-    <td align="center" width="33%">
-      <strong>Version Control</strong><br/><br/>
+    <td align="center" width="33%" valign="middle">
+      <strong>Version Control</strong><br/>
+      <br/>
       <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/github/FFFFFF" height="35" alt="github" />
