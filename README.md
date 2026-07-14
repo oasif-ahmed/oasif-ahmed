@@ -41,43 +41,56 @@
   <tr>
     <td align="center" width="33%">
       <strong>Languages</strong><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,js,ts&grayscale=true" height="50" alt="languages" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="filter: grayscale(100%)" alt="c" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="filter: grayscale(100%)" alt="cpp" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="filter: grayscale(100%)" alt="js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="filter: grayscale(100%)" alt="ts" />
     </td>
     <td align="center" width="33%">
       <strong>CSS Frameworks</strong><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&grayscale=true" height="50" alt="css frameworks" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" style="filter: grayscale(100%)" alt="tailwind" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" style="filter: grayscale(100%)" alt="bootstrap" />
     </td>
     <td align="center" width="33%">
       <strong>JS Frameworks</strong><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express&grayscale=true" height="50" alt="js frameworks" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="filter: grayscale(100%)" alt="react" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" style="filter: grayscale(100%)" alt="nextjs" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" style="filter: grayscale(100%)" alt="redux" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <strong>Databases</strong><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&grayscale=true" height="50" alt="databases" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" style="filter: grayscale(100%)" alt="mongodb" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="filter: grayscale(100%)" alt="mysql" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" style="filter: grayscale(100%)" alt="postgres" />
     </td>
     <td align="center" width="33%">
       <strong>Deployment</strong><br/>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&grayscale=true" height="50" alt="deployment platforms" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" style="filter: grayscale(100%)" alt="vercel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" style="filter: grayscale(100%)" alt="firebase" />
     </td>
     <td align="center" width="33%">
       <strong>Design Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=figma,canva&grayscale=true" height="50" alt="design tools" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="filter: grayscale(100%)" alt="figma" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <strong>Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,postman,notion&grayscale=true" height="50" alt="tools" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="filter: grayscale(100%)" alt="vscode" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="filter: grayscale(100%)" alt="git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="filter: grayscale(100%)" alt="github" />
     </td>
     <td align="center" width="33%">
       <strong>Backend</strong><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&grayscale=true" height="50" alt="backend" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="filter: grayscale(100%)" alt="nodejs" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" style="filter: grayscale(100%)" alt="express" />
     </td>
     <td align="center" width="33%">
-      <strong>Version Control</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github&grayscale=true" height="50" alt="version control" />
+      <strong>Other</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" style="filter: grayscale(100%)" alt="docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="filter: grayscale(100%)" alt="linux" />
     </td>
   </tr>
 </table>
