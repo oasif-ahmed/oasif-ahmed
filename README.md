@@ -91,7 +91,7 @@
   <tr>
     <td align="center" width="33%">
       <strong>Tools</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/visualstudio/007ACC" height="35" alt="vscode" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman" />
       &nbsp;&nbsp;&nbsp;
