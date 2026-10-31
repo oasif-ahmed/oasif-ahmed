@@ -16,15 +16,15 @@
 
 About Me
 
-- 🔭 Currently working with **React.js, Next.js, TypeScript, and Redux**.
-- 🌱 Exploring **React Native and Docker**.
-- ⚙️ Building backend applications with **Node.js, Express.js, and Prisma ORM**.
-- 🗄️ Working with **MongoDB, PostgreSQL, and Redis**.
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, and Backend Development**.
-- 🌐 Portfolio: [Visit My Portfolio](https://oasif-ahmed-rikto-portfolio.vercel.app/)
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view)
-- ✍️ LinkedIn: [Connect With Me](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)
-- 📫 Email: **oasifrikto@gmail.com**
+- Currently building full-stack applications using **React.js, Next.js, and TypeScript**.
+- Experienced in backend development with **Node.js, Express.js, PostgreSQL, and Prisma ORM**.
+- Working with **MongoDB and Redis** for data management and caching.
+- Continuously learning and improving my skills in **backend development and system design**.
+- Enjoy solving problems and building practical applications with a focus on clean and efficient solutions.
+- Portfolio: [Visit My Portfolio](https://oasif-ahmed-rikto-portfolio.vercel.app/)
+- Resume: [View My Resume](https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view)
+- LinkedIn: [Connect With Me](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)
+- Email: **oasifrikto@gmail.com**
 
 ---
 
