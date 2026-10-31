@@ -48,30 +48,41 @@
 
 ### 🛠️ Skills & Technologies
 
-**Languages**
+**Programming Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,c&theme=dark" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true)" alt="TypeScript" />
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_js.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_js.png?raw=true)" alt="JavaScript" />
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true)" alt="C" />
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true)" alt="SQL" />
+\</p>
 
 **Frontend Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-  <img src="https://tanstack.com/favicon.ico" height="48" alt="TanStack Query" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true)" alt="React.js" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" height="45" alt="Next.js" />
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true)" alt="HTML" />
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true)" alt="CSS" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=tailwind](https://skillicons.dev/icons?i=tailwind)" height="45" alt="Tailwind CSS" />
+&#x20; \<img src="[https://cdn.simpleicons.org/reactquery/FF4154](https://cdn.simpleicons.org/reactquery/FF4154)" height="45" alt="TanStack Query" />
+\</p>
 
 **Backend Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=jwt&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=stripe&theme=dark" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" height="45" alt="Node.js and Express.js" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis](https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis)" height="45" alt="PostgreSQL, MongoDB, Prisma and Redis" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=jwt,stripe](https://skillicons.dev/icons?i=jwt,stripe)" height="45" alt="JWT and Stripe" />
+\</p>
 
 **Tools & Platforms**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,netlify&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=render&theme=dark" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true)" alt="Git" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=github,postman,firebase](https://skillicons.dev/icons?i=github,postman,firebase)" height="45" alt="GitHub, Postman and Firebase" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=vercel,netlify](https://skillicons.dev/icons?i=vercel,netlify)" height="45" alt="Vercel and Netlify" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=render](https://skillicons.dev/icons?i=render)" height="45" alt="Render" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" height="45" alt="NextAuth" />
+\</p>
+
