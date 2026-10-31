@@ -28,20 +28,24 @@ About Me
 
 ---
 
-Connect With Me
+Let's Connect
 
 <p align="center">
   <a href="https://github.com/oasif-ahmed">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:oasifrikto@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+  <i>Feel free to connect, collaborate, or discuss technology!</i>
 </p>
 
 ---
