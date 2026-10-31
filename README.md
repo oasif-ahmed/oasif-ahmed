@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Oasif Ahmed Rikto - Frontend Developer" />
+  <img src="./banner.png" width="100%" alt="Oasif Ahmed Rikto - Full Stack Developer" />
 </p>
 
 
 <h1 align="center">Hi, I'm Oasif Ahmed Rikto</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer" alt="Typing Animation" />
 </p>
 
-- Hi, I'm **@ahmed0004321**
-- I'm currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- Using **Node.js, Express.js, MongoDB** for the backend.
-- I'm currently learning **Next.js, react native and Docker**.
-- Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
-- Explore My Portfolio **[https://oasif-ahmed-rikto-portfolio.vercel.app/]** and My Resume **[https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view]**
-- I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)**
-- Feel free to reach me out **[Email](mailto:oasifrikto@gmail.com)**
+- 👋 Hi, I'm **@oasif-ahmed**, a passionate **Full Stack Developer**
+- 👨‍💻 I'm currently working on **React.js, Next.js, TypeScript and Redux** for frontend development.
+- 🔧 Using **Node.js, Express.js, Prisma ORM, MongoDB, PostgreSQL and Redis** for the backend.
+- 🐳 I'm currently learning **React Native and Docker**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, Prisma, MongoDB, Redis)**.
+- 🌐 Explore My Portfolio **[https://oasif-ahmed-rikto-portfolio.vercel.app/](https://oasif-ahmed-rikto-portfolio.vercel.app/)** and My Resume **[Resume](https://drive.google.com/file/d/1u1eJkYcgpB14Nss5f-SOgRH9sSQ3frOy/view)**
+- ✍️ I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)**
+- 📫 How to reach me: **[Email](mailto:oasifrikto@gmail.com)**
 
 <br/>
 
@@ -35,62 +35,73 @@
 
 <br/>
 
-### TECHNOLOGY STACK:
+### TECHNOLOGIES 💻
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="middle">
-      <strong>Languages</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="js" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="ts" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cpp" />
-    </td>
-    <td align="center" width="33%" valign="middle">
-      <strong>CSS & Markup</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap" />
-    </td>
-    <td align="center" width="33%" valign="middle">
-      <strong>JS Frameworks</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux" />
-    </td>
-  </tr>
-  <tr><td colspan="3"><br/><br/></td></tr>
-  <tr>
-    <td align="center" width="33%" valign="middle">
-      <strong>Databases</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres" />
-    </td>
-    <td align="center" width="33%" valign="middle">
-      <strong>Deployment</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" alt="vercel" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify" />
-    </td>
-    <td align="center" width="33%" valign="middle">
-      <strong>Design Tools</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma" />
-    </td>
-  </tr>
-  <tr><td colspan="3"><br/><br/></td></tr>
-  <tr>
-    <td align="center" width="33%" valign="middle">
-      <strong>Tools</strong><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/notion/FFFFFF" height="40" alt="notion" />
-    </td>
-    <td align="center" width="33%" valign="middle">
-      <strong>Backend</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="express" />
-    </td>
-    <td align="center" width="33%" valign="middle">
-      <strong>Version Control</strong><br/><br/>
-      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="240" valign="middle">
+        <strong>Languages</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="js" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="ts" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cpp" />
+      </td>
+      <td align="center" width="240" valign="middle">
+        <strong>CSS &amp; Markup</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap" />
+      </td>
+      <td align="center" width="240" valign="middle">
+        <strong>Frontend</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="240" valign="middle">
+        <strong>Backend</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="express" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma" />
+      </td>
+      <td align="center" width="240" valign="middle">
+        <strong>Databases</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgres" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redis/FF4438" height="40" alt="redis" />
+      </td>
+      <td align="center" width="240" valign="middle">
+        <strong>Deployment &amp; DevOps</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" alt="vercel" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="240" valign="middle">
+        <strong>Tools</strong>
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/notion/FFFFFF" height="40" alt="notion" />
+      </td>
+      <td align="center" width="240" valign="middle">
+        <strong>Design</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma" />
+      </td>
+      <td align="center" width="240" valign="middle">
+        <strong>Version Control</strong>
+        <br/><br/>
+        <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-**GitHub Statistics:**<br/>
+<br/>
+
+### GITHUB STATISTICS:
+
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oasif-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oasif-ahmed&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </p>
 
-**Repository Stats & Streak:**<br/>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=oasif-ahmed&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </p>
