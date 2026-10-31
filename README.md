@@ -35,19 +35,12 @@
 
 <br/>
 
-### SKILLS
+### Tech Stack
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="24" alt="ts" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="24" alt="js" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="24" alt="react" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="24" alt="nextjs" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24" alt="nodejs" />
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="24" alt="express" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24" alt="postgres" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="24" alt="mongodb" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="24" alt="prisma" />
-  <img src="https://cdn.simpleicons.org/redis/FF4438" height="24" alt="redis" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="24" alt="tailwind" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="24" alt="git" />
-</p>
+**Tech Stack**
+
+| | | | | | |
+|---|---|---|---|---|---|---|
+| <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" /><br/><span style="color: #E6EDF3; font-size: 11px;">Node.js</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=express" height="42" alt="Express" /><br/><span style="color: #E6EDF3; font-size: 11px;">Express</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" /><br/><span style="color: #E6EDF3; font-size: 11px;">TypeScript</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql" height="42" alt="PostgreSQL" /><br/><span style="color: #E6EDF3; font-size: 11px;">PostgreSQL</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=prisma" height="42" alt="Prisma" /><br/><span style="color: #E6EDF3; font-size: 11px;">Prisma</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" /><br/><span style="color: #E6EDF3; font-size: 11px;">Redis</span></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" /><br/><span style="color: #E6EDF3; font-size: 11px;">Next.js</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" /><br/><span style="color: #E6EDF3; font-size: 11px;">React</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="Tailwind CSS" /><br/><span style="color: #E6EDF3; font-size: 11px;">Tailwind</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" /><br/><span style="color: #E6EDF3; font-size: 11px;">Python</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=django" height="42" alt="Django" /><br/><span style="color: #E6EDF3; font-size: 11px;">Django</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" /><br/><span style="color: #E6EDF3; font-size: 11px;">Docker</span></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=nginx" height="42" alt="Nginx" /><br/><span style="color: #E6EDF3; font-size: 11px;">Nginx</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" /><br/><span style="color: #E6EDF3; font-size: 11px;">AWS</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" /><br/><span style="color: #E6EDF3; font-size: 11px;">Git</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" /><br/><span style="color: #E6EDF3; font-size: 11px;">Postman</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=cpp" height="42" alt="C++" /><br/><span style="color: #E6EDF3; font-size: 11px;">C++</span></div> | <div align="center"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" /><br/><span style="color: #E6EDF3; font-size: 11px;">MySQL</span></div> |
