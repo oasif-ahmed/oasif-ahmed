@@ -130,3 +130,22 @@
     </tr>
   </table>
 </p>
+
+<br/>
+
+### SKILLS
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="24" alt="ts" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="24" alt="js" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="24" alt="react" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="24" alt="nextjs" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24" alt="nodejs" />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="24" alt="express" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24" alt="postgres" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="24" alt="mongodb" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="24" alt="prisma" />
+  <img src="https://cdn.simpleicons.org/redis/FF4438" height="24" alt="redis" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="24" alt="tailwind" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="24" alt="git" />
+</p>
