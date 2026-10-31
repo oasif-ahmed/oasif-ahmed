@@ -130,20 +130,3 @@
     </tr>
   </table>
 </p>
-
-<br/>
-
-### GITHUB STATISTICS:
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oasif-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oasif-ahmed&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=oasif-ahmed&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oasif-ahmed&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-</p>
