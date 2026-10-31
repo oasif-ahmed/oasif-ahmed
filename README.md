@@ -14,7 +14,7 @@
 
 ---
 
-### 👨‍💻 About Me
+About Me
 
 - 🔭 Currently working with **React.js, Next.js, TypeScript, and Redux**.
 - 🌱 Exploring **React Native and Docker**.
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌐 Connect With Me
+Connect With Me
 
 <p align="center">
   <a href="https://github.com/oasif-ahmed">
@@ -46,43 +46,69 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+Skills & Technologies
 
-**Programming Languages**
+Programming Languages
 
-\<p align="center">
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true)" alt="TypeScript" />
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_js.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_js.png?raw=true)" alt="JavaScript" />
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_c.png?raw=true)" alt="C" />
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true)" alt="SQL" />
-\</p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="40"/><br/><sub>TypeScript</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="40"/><br/><sub>JavaScript</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" width="40"/><br/><sub>C</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="40"/><br/><sub>SQL</sub></td>
+    </tr>
+  </table>
+</p>
 
-**Frontend Development**
+Frontend Development
 
-\<p align="center">
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true)" alt="React.js" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" height="45" alt="Next.js" />
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true)" alt="HTML" />
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true)" alt="CSS" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=tailwind](https://skillicons.dev/icons?i=tailwind)" height="45" alt="Tailwind CSS" />
-&#x20; \<img src="[https://cdn.simpleicons.org/reactquery/FF4154](https://cdn.simpleicons.org/reactquery/FF4154)" height="45" alt="TanStack Query" />
-\</p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="40"/><br/><sub>React.js</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" width="40"/><br/><sub>Next.js</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="40"/><br/><sub>HTML</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="40"/><br/><sub>CSS</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br/><sub>Tailwind CSS</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40"/><br/><sub>TanStack Query</sub></td>
+    </tr>
+  </table>
+</p>
 
-**Backend Development**
+Backend Development
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" height="45" alt="Node.js and Express.js" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis](https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis)" height="45" alt="PostgreSQL, MongoDB, Prisma and Redis" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=jwt,stripe](https://skillicons.dev/icons?i=jwt,stripe)" height="45" alt="JWT and Stripe" />
-\</p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="40"/><br/><sub>Node.js</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="40"/><br/><sub>Express.js</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="40"/><br/><sub>PostgreSQL</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" width="40"/><br/><sub>MongoDB</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" width="40"/><br/><sub>Prisma ORM</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" width="40"/><br/><sub>Redis</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="40"/><br/><sub>JWT</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40"/><br/><sub>Stripe</sub></td>
+    </tr>
+  </table>
+</p>
 
-**Tools & Platforms**
+Tools & Platforms
 
-\<p align="center">
-&#x20; \<img src="[https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true)" alt="Git" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=github,postman,firebase](https://skillicons.dev/icons?i=github,postman,firebase)" height="45" alt="GitHub, Postman and Firebase" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=vercel,netlify](https://skillicons.dev/icons?i=vercel,netlify)" height="45" alt="Vercel and Netlify" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=render](https://skillicons.dev/icons?i=render)" height="45" alt="Render" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" height="45" alt="NextAuth" />
-\</p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="40"/><br/><sub>Git</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/><br/><sub>GitHub</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" width="40"/><br/><sub>Postman</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg" width="40"/><br/><sub>Firebase</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40"/><br/><sub>NextAuth</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40"/><br/><sub>Vercel</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40"/><br/><sub>Netlify</sub></td>
+      <td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/><br/><sub>Render</sub></td>
+    </tr>
+  </table>
+</p>
 
