@@ -44,7 +44,6 @@
   <br/>
   Node.js
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=express" target="_blank">
     <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express" />
@@ -52,7 +51,6 @@
   <br/>
   Express
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=typescript" target="_blank">
     <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />
@@ -60,7 +58,6 @@
   <br/>
   TypeScript
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=postgresql" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgresql" height="42" alt="PostgreSQL" />
@@ -68,7 +65,6 @@
   <br/>
   PostgreSQL
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=prisma" target="_blank">
     <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="Prisma" />
@@ -76,7 +72,6 @@
   <br/>
   Prisma
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=redis" target="_blank">
     <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" />
@@ -84,7 +79,6 @@
   <br/>
   Redis
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=nextjs" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" />
@@ -92,7 +86,6 @@
   <br/>
   Next.js
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=react" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />
@@ -100,7 +93,6 @@
   <br/>
   React
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=tailwindcss" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="Tailwind CSS" />
@@ -108,7 +100,6 @@
   <br/>
   Tailwind
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=python" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" />
@@ -116,7 +107,6 @@
   <br/>
   Python
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=django" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" height="42" alt="Django" />
@@ -124,7 +114,6 @@
   <br/>
   Django
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=docker" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
@@ -132,7 +121,6 @@
   <br/>
   Docker
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=nginx" target="_blank">
     <img src="https://skillicons.dev/icons?i=nginx" height="42" alt="Nginx" />
@@ -140,7 +128,6 @@
   <br/>
   Nginx
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=aws" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" />
@@ -148,7 +135,6 @@
   <br/>
   AWS
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=git" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
@@ -156,7 +142,6 @@
   <br/>
   Git
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=postman" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
@@ -164,7 +149,6 @@
   <br/>
   Postman
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=cpp" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="C++" />
@@ -172,7 +156,6 @@
   <br/>
   C++
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev/icons?i=mysql" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" />
