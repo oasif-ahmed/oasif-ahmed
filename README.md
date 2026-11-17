@@ -17,7 +17,7 @@ About Me
 - Working with **MongoDB and Redis** for data management and caching.
 - Continuously learning and improving my skills in **backend development and system design**.
 - Enjoy solving problems and building practical applications with a focus on clean and efficient solutions.
-- Portfolio: [Visit My Portfolio](https://oasif-ahmed-portfolio.vercel.app)
+- Portfolio: [Visit My Portfolio](https://oasif-ahmed-rikto-portfolio.vercel.app)
 - Resume: [View My Resume](https://drive.google.com/file/d/1SanC7OU4l_TyOVYt4dPlw4Xwr_GPYCVe/view?usp=drive_link)
 - LinkedIn: [Connect With Me](https://www.linkedin.com/in/oasif-ahmed-rikto-30610b354/)
 - Email: **oasifrikto@gmail.com**
