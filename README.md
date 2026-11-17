@@ -1,7 +1,3 @@
- <p align="center">
-  <img src="./banner.png" width="100%" alt="Oasif Ahmed Rikto - Full Stack Developer" />
-</p>
-
 <h1 align="center">Hi, I'm Oasif Ahmed Rikto 👋</h1>
 
 <p align="center">
